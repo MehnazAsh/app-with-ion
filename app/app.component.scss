@@ -1,0 +1,29 @@
+.scroll-content{
+padding:0 !important;
+ 
+}
+
+ion-item, .coinbtn{
+   
+    background: #1E4871 !important;
+    margin-bottom: 0 !important;
+    border-bottom: 1px solid #19232C !important;
+    color:#C1E6FF !important;
+}
+.details{
+
+    background-color: #102D49 !important;
+}
+
+.loading-md .loading-wrapper{
+
+    background:#102D49 !important;
+    color:#C1E6FF !important;
+    text-transform: uppercase;
+    font-size: 8em;
+}
+
+.buttons-last-slot, .sc-ion-buttons-md-h,.sc-ion-buttons-md-s, .md hydrated{
+  
+    background-color:rgba($color: #000000, $alpha: .15);
+}
